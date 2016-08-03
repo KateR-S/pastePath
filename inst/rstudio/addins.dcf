@@ -1,0 +1,4 @@
+Name: Paste path
+Description: Pastes path from windows into consolt
+Binding: pastePathGadget
+Interactive: true
