@@ -9,9 +9,6 @@
 
 pastePathGadget <- function() {
 
-  requireNamespace("miniUI")
-  requireNamespace("shiny")
-
   ui <- miniPage(
     gadgetTitleBar("My Gadget"),
     miniContentPanel(
